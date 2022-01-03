@@ -11,8 +11,8 @@
 featured-image: wocim009
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: # Default is 8em
-# optional: top
-home-banner-image-position: # Default is center
+# optional: top, bottom, center
+home-banner-image-position: top
 
 ##########
 # ITEM PAGE
