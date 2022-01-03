@@ -13,7 +13,7 @@ featured-image: wocim009
 home-title-y-padding: 8em # Default is 8em
 # optional: change position of background image top, bottom, center
 home-banner-image-position: top
-
+about-featured-image: 
 ##########
 # ITEM PAGE
 #
