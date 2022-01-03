@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://https://starkad2.github.io/Wocim_GH/item.html?id=wocim009" %}
+{% include feature/jumbotron.html objectid="https://starkad2.github.io/Wocim_GH/item.html?id=wocim009" %}
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
